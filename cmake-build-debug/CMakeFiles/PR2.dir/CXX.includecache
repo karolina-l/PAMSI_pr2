@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/PR2/container.h
+
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/PR2/main.cpp
+iostream
+-
+container.h
+C:/Users/Karolina/Desktop/Karolina/Studia/2 rok/PAMSI/PR2/container.h
+fstream
+-
+string
+-
+sstream
+-
+
